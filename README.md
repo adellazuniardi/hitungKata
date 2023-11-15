@@ -1,4 +1,4 @@
-# simple_calculator
+# hitung_kata
 
 A new Flutter project.
 
